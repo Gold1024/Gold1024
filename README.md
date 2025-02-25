@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdulraffay
+- 👋 Hi, haziq
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning Python
 - 🎉 Contact: instagram https://www.instagram.com/gold10240/
